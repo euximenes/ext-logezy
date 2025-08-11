@@ -1,0 +1,11 @@
+{
+  "domain": "baixardesign.com.br",
+  "logins": [
+    {
+      "label": "Acessar Baixar Design",
+      "file": "baixardesign.txt",
+      "url": "https://app.baixardesign.com.br/",
+      "inMaintenance": false
+    }
+  ]
+}

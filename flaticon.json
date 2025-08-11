@@ -1,0 +1,11 @@
+{
+  "domain": "flaticon.com",
+  "logins": [
+    {
+      "label": "Acessar Flaticon",
+      "file": "flaticon.txt",
+      "url": "https://www.flaticon.com/br/",
+      "inMaintenance": false
+    }
+  ]
+}
