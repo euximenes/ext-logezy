@@ -1,0 +1,11 @@
+{
+  "domain": "stock.adobe.com",
+  "logins": [
+    {
+      "label": "Acessar Adobe Stock",
+      "file": "adobestock.txt",
+      "url": "https://stock.adobe.com/br/",
+      "inMaintenance": false
+    }
+  ]
+}
