@@ -33,6 +33,7 @@
     }
   ],
   "cssSelectorsToHide": [
-    ".size-full.top-0"
+    ".size-full.top-0",
+    ".\$px-\[10px\]"
   ]
 }
