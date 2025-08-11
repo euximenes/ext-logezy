@@ -31,9 +31,5 @@
       "url": "https://br.freepik.com/",
       "inMaintenance": false
     }
-  ],
-  "cssSelectorsToHide": [
-    ".size-full.top-0",
-    ".\$px-\[10px\]"
   ]
 }
