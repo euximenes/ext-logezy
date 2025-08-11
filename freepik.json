@@ -3,31 +3,31 @@
   "logins": [
     {
       "label": "Freepik Premium 1",
-      "file": "Freepik1.txt",
+      "file": "freepik1.txt",
       "url": "https://br.freepik.com/",
       "inMaintenance": false
     },
     {
       "label": "Freepik Premium 2",
-      "file": "Freepik2.txt",
+      "file": "freepik2.txt",
       "url": "https://br.freepik.com/",
       "inMaintenance": false
     },
     {
       "label": "Freepik Premium 3",
-      "file": "Freepik3.txt",
+      "file": "freepik3.txt",
       "url": "https://br.freepik.com/",
       "inMaintenance": true
     },
     {
       "label": "Freepik Premium 4",
-      "file": "Freepik4.txt",
+      "file": "freepik4.txt",
       "url": "https://br.freepik.com/",
       "inMaintenance": false
     },
     {
       "label": "Freepik Premium 5",
-      "file": "Freepik5.txt",
+      "file": "freepik5.txt",
       "url": "https://br.freepik.com/",
       "inMaintenance": false
     }
