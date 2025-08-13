@@ -1,0 +1,11 @@
+{
+  "domain": "curso.agenciasetup.com.br",
+  "logins": [
+    {
+      "label": "Acessar Curso",
+      "file": "curso-designexpert.txt",
+      "url": "https://curso.agenciasetup.com.br/dashboard",
+      "inMaintenance": false
+    }
+  ]
+}
