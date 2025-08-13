@@ -1,0 +1,17 @@
+{
+  "domain": "claude.ai",
+  "logins": [
+    {
+      "label": "Conta Claude MAX 1",
+      "file": "claude1.txt",
+      "url": "https://claude.ai/new",
+      "inMaintenance": false
+    },
+    {
+      "label": "Conta Claude MAX 2",
+      "file": "claude2.txt",
+      "url": "https://claude.ai/new",
+      "inMaintenance": false
+    },
+  ]
+}
