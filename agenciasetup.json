@@ -3,7 +3,7 @@
   "logins": [
     {
       "label": "Acessar Curso",
-      "file": "curso-designerxpert.txt",
+      "file": "agenciasetup.txt",
       "url": "https://curso.agenciasetup.com.br/dashboard",
       "inMaintenance": false
     }
